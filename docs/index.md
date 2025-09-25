@@ -2,7 +2,7 @@
 
 * [AdStore](https://cris-casacop.github.io/bms-docs/AdStore_Documentation)
 * [AdOpt](https://cris-casacop.github.io/bms-docs/AdOpt)
-* Avatega
+* [Avatega](https://cris-casacop.github.io/bms-docs/Avatega)
 * ConfigPortal
 * AdTraffic
 * Cynch
