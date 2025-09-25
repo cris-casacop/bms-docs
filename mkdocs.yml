@@ -1,6 +1,7 @@
-site_name: SpaceApp Docs
+site_name: Vidispine BMS Documentation
+site_url: https://cris-casacop.github.io/Vidi_BMS_Docs/
 theme:
   name: material
-nav:
-  - Home: index.md
-  - Getting Started: getting-started.md
+  palette:
+    primary: deep-orange # or 'red'
+    accent: orange
